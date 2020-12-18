@@ -1,0 +1,11 @@
+[package]
+name = "test_gm"
+version = "0.1.0"
+authors = ["lightning1141 <lightning1141@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "1.0.35"
+graphicsmagick = "0.1.1"
